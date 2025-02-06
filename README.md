@@ -9,6 +9,7 @@ Este proyecto es una API desarrollada con **FastAPI** que permite gestionar info
 *   **Pydantic:** Validación de datos.
 *   **SQLAlchemy:** ORM para la base de datos.
 *   **psycopg2:** Driver de PostgreSQL.
+*   **Códigos de estado HTTP
 
 ## 🚀 Características
 
