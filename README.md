@@ -2,6 +2,14 @@
 
 Este proyecto es una API desarrollada con **FastAPI** que permite gestionar información sobre continentes y países mediante operaciones CRUD (Crear, Leer, Actualizar y Eliminar).
 
+## Tecnologías Utilizadas
+
+*   **FastAPI:** Framework web de alto rendimiento para Python.
+*   **Uvicorn:** Servidor ASGI.
+*   **Pydantic:** Validación de datos.
+*   **SQLAlchemy:** ORM para la base de datos.
+*   **psycopg2:** Driver de PostgreSQL.
+
 ## 🚀 Características
 
 *   **Continentes:**
